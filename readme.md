@@ -12,4 +12,4 @@ webapp created using streamlit which provides flexibility in choosing the number
 ![Screenshot1](./images/ss1.png)
 ![Screenshot2](./images/ss2.png)
 ![Screenshot3](./images/ss3.png)
-![demo video](./video/record.webm)
+![demo video](./video/record.mp4)
