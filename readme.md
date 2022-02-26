@@ -12,3 +12,9 @@ webapp created using streamlit which provides flexibility in choosing the number
 ![Screenshot1](./images/ss1.png)
 ![Screenshot2](./images/ss2.png)
 ![Screenshot3](./images/ss3.png)
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="images/ss1.png">
+    <source src="video/record.webm" type="video/webm">
+  </video>
+</figure>
